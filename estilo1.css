@@ -1,0 +1,50 @@
+body{
+	background-color: #32B712;
+}
+
+#titulo1{
+	background-color: #61FF3A;
+}
+
+#barralateral{
+	background-color: #61FF3A;
+	height:auto ;
+	width: 170px;
+	position:fixed;
+}
+
+#barralateral2{
+	background-color: #61FF3A;
+	height:1570px ;
+	width: 170px;
+	float: left;
+}
+
+
+#PAGINAPRINCIPAL{
+	background-color: #61FF3A;
+	font-style:normal;
+	font-size: 20px;
+	margin-left: 180px;  
+	padding-top: 10px; 
+	padding-left: 15px;  
+	padding-bottom: 15px;  
+	margin-bottom: 10px; 
+}
+
+
+#piePagina{
+	background-color: #61FF3A;  
+	clear: both;  
+	margin-top: 30px;  
+	text-align: center; 
+	padding: 20px;  
+	border-top: 5px solid #2A6E05; 
+}  
+
+
+img{
+	border:5px;
+  	width:200px;
+  	height:100px;
+}
